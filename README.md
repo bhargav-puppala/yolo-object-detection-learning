@@ -38,3 +38,10 @@ Validation
 Inference
       ↓
 Bounding Boxes + Confidence
+
+
+👨‍💻 Author
+
+Bhargav Puppala
+
+This project is part of my hands-on learning journey in Artificial Intelligence, Machine Learning, and Computer Vision.
